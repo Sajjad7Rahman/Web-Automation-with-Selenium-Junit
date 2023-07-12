@@ -1,15 +1,15 @@
 # Web-Automation-with-Selenium-Junit
 
-##Seleium Junit:
+##**Seleium Junit:**
 Selenium is a popular framework for automating web browsers which provides a suite of tools and libraries that allow testers and developers to automate web application testing across different browsers (Chrome Browswer is used in this Project) and platforms. With Selenium, can write test scripts in various programming languages such as Java to interact with web elements, simulate user actions, including perform assertions to verify the behavior of web applications.
 JUnit is a commonly used testing framework for Java applications which ensures a set of annotations, assertions, and test runners that enable developers to write and execute unit tests for Java code.
 While these two technologies are using together, Selenium is used for Browser Automation while JUnit is used as the testing framework for organizing and running the Selenium Tests. In this Framework, Junit annotations like @DisplayName for different Test cases, @Test to define to methods, @BeforeAll to define setup and @AfterAll to close the driver are used to verify the expected outcomes.
 
-##Technology Used:
+##**Technology Used:**
 -Intellij
 Selenium
 
-##Framework Used:
+##**Framework Used:**
 -Junit
 
 ## Pre-requisite/s:
@@ -22,7 +22,7 @@ testImplementation 'org.junit.jupiter:junit-jupiter'
 // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
 implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.10.0'
 
-##Website Used for this test:
+## Website Used for this test:
 
 Link: https://www.digitalunite.com/practice-webform-learners
 
