@@ -5,7 +5,7 @@ Selenium is a popular framework for automating web browsers which provides a sui
 
 JUnit is a commonly used testing framework for Java applications which ensures a set of annotations, assertions, and test runners that enable developers to write and execute unit tests for Java code.
 
-While these two technologies are using together, Selenium is used for Browser Automation while JUnit is used as the testing framework for organizing and running the Selenium Tests. In this Framework, Junit annotations like @DisplayName for different Test cases, @Test to define to methods, @BeforeAll to define setup and @AfterAll to close the driver are used to verify the expected outcomes.
+While these two technologies are using together, Selenium is used for Browser Automation while JUnit is used as the testing framework for organizing and running the Selenium Tests. In this Project, Junit annotations like @DisplayName for different Test cases, @Test to define the methods, @BeforeAll to define setup and @AfterAll to close the driver are used to verify the expected outcomes.
 
 ## Technology Used:
 -Intellij
