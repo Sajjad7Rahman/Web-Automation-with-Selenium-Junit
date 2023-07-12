@@ -32,3 +32,8 @@ implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version:
 Link: https://www.digitalunite.com/practice-webform-learners
 
 ![Capture_website](https://github.com/Sajjad7Rahman/Web-Automation-with-Selenium-Junit/assets/134221688/66294cf1-4d11-41a3-9b84-e7e67c9c0c52)
+
+## Test Report:
+
+![Junit-report](https://github.com/Sajjad7Rahman/Web-Automation-with-Selenium-Junit/assets/134221688/16506525-e46d-4293-8dab-87b23b35ce92)
+
