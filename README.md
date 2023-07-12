@@ -7,6 +7,7 @@ While these two technologies are using together, Selenium is used for Browser Au
 
 ## Technology Used:
 -Intellij
+
 -Selenium
 
 ## Framework Used:
